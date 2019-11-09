@@ -4,7 +4,7 @@ var artist = "Tjahjo Wisanggeni"
 var album = "From The Other Side"
 var released = "1992"
 var songLengthInSeconds = 360
-var isUnderRated = true
+var isUnderRated = true // value using true or false
 var songGenre = ["Instrumental Rock", "	Neoclassical Metal"]
 var songWriters = "Tjahjo Wisanggeni"
 
