@@ -12,7 +12,7 @@ var songWriters = "Tjahjo Wisanggeni"
 console.log( "Track title: " + trackTitle)
 console.log( "Artist: " + artist) 
 console.log( "Album: " + album) 
-console.log( "Released: " + released, 
+console.log( "Released: " + released)
 console.log( "Song duration: " + songLengthInSeconds + " seconds") 
 console.log( "Under rated: " + isUnderRated) 
 console.log( "Song Genre: " + songGenre) 
