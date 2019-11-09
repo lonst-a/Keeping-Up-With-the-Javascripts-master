@@ -9,11 +9,11 @@ var songGenre = ["Instrumental Rock", "	Neoclassical Metal"]
 var songWriters = "Tjahjo Wisanggeni"
 
 // Output each var(s) using console.log
-console.log( "Track title: " + trackTitle, 
-"Artist: " + artist, 
-"Album: " + album, 
-"Released: " + released, 
-"Song duration: " + songLengthInSeconds + " seconds", 
-"Under rated: " + isUnderRated, 
-"Song Genre: " + songGenre, 
-"Song writer(s):" + songWriters)
+console.log( "Track title: " + trackTitle)
+console.log( "Artist: " + artist) 
+console.log( "Album: " + album) 
+console.log( "Released: " + released, 
+console.log( "Song duration: " + songLengthInSeconds + " seconds") 
+console.log( "Under rated: " + isUnderRated) 
+console.log( "Song Genre: " + songGenre) 
+console.log( "Song writer(s):" + songWriters)
